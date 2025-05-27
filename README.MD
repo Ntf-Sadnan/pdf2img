@@ -1,4 +1,4 @@
-# PDF to Image Converter - Vibecoded by ntf sadnan ✨
+# pdf2img
 
 Quickly convert your PDF files into high-quality PNG images right in your browser! This tool is designed for simplicity and speed, letting you choose the output quality to balance file size and clarity.
 
